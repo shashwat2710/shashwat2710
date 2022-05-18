@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashwat2710
 - 👀 I’m interested in new age techs and algorithms
-- 🌱 I’m currently working in Node js and backend technologies
+- 🌱 I’m currently working in Front end technologies
 - 📫 How to reach me proshashwat@gmail.com
 
 <!---
